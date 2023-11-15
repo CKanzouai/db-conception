@@ -1,4 +1,4 @@
 ﻿# db-conception
 
- Binome : KANZOUAI Chaimae et Mbaye GUEYE
+ Binôme : KANZOUAI Chaimae et Mbaye GUEYE
  
